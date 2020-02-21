@@ -1,4 +1,4 @@
-# Akan-Names.
+# Delani Studio.
 [Check it out]()
 
 ## Description.
