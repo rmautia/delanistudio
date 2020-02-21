@@ -7,8 +7,9 @@
     position: absolute;
     bottom: 12px
   }
-  #aboutuscont {
+  #toUs {
     padding: 20px;
+    background: url("../images/backgrounds/s_image.jpg")
   }
   #portfolio div img {
     width: 100%;
@@ -16,3 +17,4 @@
   #portfolio div {
     padding: 10px;
   }
+
