@@ -12,6 +12,7 @@
   }
   #portfolio div img {
     width: 100%;
+    display: block;
   }
   #portfolio div {
     padding: 10px;
@@ -48,22 +49,11 @@
   bottom: 10px;
   margin: 10%;
 }
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: white;
-}
 .btn {
   border: 2px solid blue;
   padding: 6px;
   color: white;
+  background: transparent;
 }
 
 #social {
@@ -71,9 +61,9 @@
   bottom: 15px;
   top: 15px;
 }
-h3 p {
+ #para {
   display: none;
 }
-h3.header1 {
-  display: show;
+h3 {
+  display: show ;
 }
