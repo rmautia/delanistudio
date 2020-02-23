@@ -7,9 +7,8 @@
     position: absolute;
     bottom: 12px
   }
-  #toUs {
-    padding: 20px;
-    background: url("../images/backgrounds/s_image.jpg")
+  #aboutus {
+    padding:20px
   }
   #portfolio div img {
     width: 100%;
@@ -17,4 +16,36 @@
   #portfolio div {
     padding: 10px;
   }
-
+  #contactus {
+    background: url("../images/backgrounds/c_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+#service {
+  background-image: url("../images/backgrounds/s_image.jpg");
+  font-size: 12px;
+  height: 10%
+}
+.form-control {
+  background: transparent;
+}
+.form-control {
+  color: white;
+  opacity: 1;
+  padding: 12px;
+}
+#nd {
+  bottom: 25px;
+}
+#dd {
+  bottom: 10px;
+}
+#tcont: hover .overlay {
+  opacity: 1;
+}
+#des p {
+  display: none;
+}
+#des img {
+  display: show;
+}

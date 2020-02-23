@@ -8,13 +8,13 @@ This is a website about Delani Studio. It is essentially the company profile tha
  > Raphael Nyangenya
 
  ## Setup.
- > ``git clone hhttps://https://github.com/rmautia/delanistudio.git``
+ git clone hhttps://https://github.com/rmautia/delanistudio.git
 
- ``extract the file``
+ extract the file
 
- ``cd to the Delani-Studio directory``
+ cd to the Delani-Studio directory
 
- > ``Then Open the index.html on your favorite browser``
+ Then Open the index.html on your favorite browser
 
 ## Technologies used.
   * Html5
