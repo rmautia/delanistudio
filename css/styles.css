@@ -67,9 +67,15 @@
   padding: 6px;
   color: white;
 }
-#social: :hover {
 
+#social {
+  padding: 15px;
+  bottom: 15px;
+  top: 15px;
 }
-#social:hover .overlay {
-  opacity: 1;
+h3 p {
+  display: none;
+}
+h3.header1 {
+  display: show;
 }
