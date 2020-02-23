@@ -20,9 +20,15 @@
     background: url("../images/backgrounds/c_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    padding: 45px;
+    margin: 0%;
+    border: 100%;
+
   }
-#service {
+#services {
   background-image: url("../images/backgrounds/s_image.jpg");
+  background-size: cover;
+  padding: 80px;
   font-size: 12px;
   height: 10%
 }
@@ -39,13 +45,31 @@
 }
 #dd {
   bottom: 10px;
+  margin: 10%;
 }
-#tcont: hover .overlay {
+#des text {
+  display: hide;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: white;
+}
+.btn {
+  border: 2px green;
+  padding: 6px;
+  color: white;
+}
+#social: :hover {
+
+}
+#social:hover .overlay {
   opacity: 1;
-}
-#des p {
-  display: none;
-}
-#des img {
-  display: show;
 }
