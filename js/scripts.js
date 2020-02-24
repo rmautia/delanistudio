@@ -19,4 +19,13 @@ $(document).ready(function() {
     $("p.three").click(function() {
         $("h3.header3").fadeToggle(500)
     });
+
+
+    $("#portfolio .col-md-3").hover(function(){
+        $(this).find(".display").css("display","flex");
+    },function(){
+        $(this).find(".display").hide();
+    });
+
 });
+ 
