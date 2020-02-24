@@ -39,17 +39,7 @@ $(document).ready(function() {
         $(this).find(".display").hide();
     });
 
-    $("button").click(function(event){
-        event.preventDefault();
-        var name = document.getElementById('name').value;
-        var email = document.getElementById('email').value;
-        var message = document.getElementById('contactform').reset();
-        if (name && email != ''){
-            alert('Hello ' +   name + " your message has been received. Thank you for choosing to work with us.");
-        }else {
-          alert ('Invalid input')
-        }
-         });
+    
 
 });
  

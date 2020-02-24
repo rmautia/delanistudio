@@ -53,7 +53,8 @@
   border: 2px solid blue;
   padding: 6px;
   color: white;
-  background: transparent;
+  background: green;
+  align: right;
 }
 
 #social {
