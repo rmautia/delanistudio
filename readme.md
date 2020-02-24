@@ -14,7 +14,7 @@ This is a website about Delani Studio. It is essentially the company profile tha
 
  cd to the Delani-Studio directory
 
- Then Open the index.html on your favorite browser
+ Then Open the index.html in your favorite browser
 
 ## Technologies used.
   * Html5
