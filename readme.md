@@ -26,4 +26,4 @@ This is a website about Delani Studio. It is essentially the company profile tha
 > MIT License &copy 2020 Ralph
 
 ## support
-For any assistance, reach me on [mobile](+254779078401)
+For any assistance, reach me on [mobile](raphaelnyangenya@gmail.com)

@@ -39,7 +39,9 @@ $(document).ready(function() {
         $(this).find(".display").hide();
     });
 
-    
-
-});
+    $("#btn[type=submit]").click(function() {
+        var name = $('input#name').val();
+        alert(`Thank you ${name} for shopping with us`);
+    });   
+});   
  
